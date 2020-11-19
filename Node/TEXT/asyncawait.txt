@@ -1,0 +1,13 @@
++ async / await
+
+ - js에서 콜백함수의 개념을 중요~ 반드시 사용하기때문에
+ - promise를 사용해도 여전히 코드가 복잡해서 나온 async / await 
+ 
++ 사용방법
+
+ - 콜백함수를 사용하기 위해서는 async 와 await 키워드를 사용
+ 
+ ** async
+    async function <함수이름>(){
+        await ~~function(){ ... }
+    }
