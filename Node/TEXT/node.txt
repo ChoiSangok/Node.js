@@ -59,6 +59,7 @@ NodeJS + Express 구조
 프로젝트 생성 : express -e <프로젝트이름>
 서버시작 : npm start
 모듈설치 : npm install
+elastic 설치 : npm install @elastic/elasticsearch
 
 프로젝트 구조
 1. /bin/www
