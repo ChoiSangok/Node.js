@@ -29,6 +29,9 @@
     global x -> npm install express
   오류 난다면 npm express -generator -g
   
+  npm install -g express-generator
+
+  
  2. 설치 완료하면 express my-app
     
     VScode도 같이 설치
